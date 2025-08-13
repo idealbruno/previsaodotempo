@@ -16,6 +16,8 @@ Aplicação web desenvolvida em **React + Vite** para exibir previsões meteorol
 
 
 ├── public/ # Arquivos estáticos
+
+
 ├── src/ # Código-fonte do projeto
 │ ├── components/ # Componentes reutilizáveis
 │ ├── pages/ # Páginas da aplicação
