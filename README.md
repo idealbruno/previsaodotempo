@@ -1,12 +1,29 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="36" height="32" alt="image" src="https://github.com/user-attachments/assets/bb71e486-b1e4-4d74-9f0c-da38df3b913e" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🌤️ React Previsão do Tempo
 
-## Expanding the ESLint configuration
+Aplicação web desenvolvida em **React + Vite** para exibir previsões meteorológicas em tempo real, utilizando a biblioteca **Axios** para consumir dados de APIs de clima.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tecnologias
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Axios](https://axios-http.com/)
+- [ESLint](https://eslint.org/) (padrões e boas práticas)
+
+## 📂 Estrutura do Projeto
+
+
+├── public/ # Arquivos estáticos
+├── src/ # Código-fonte do projeto
+│ ├── components/ # Componentes reutilizáveis
+│ ├── pages/ # Páginas da aplicação
+│ ├── services/ # Configuração de APIs
+│ └── main.jsx # Arquivo inicial do React
+├── .gitignore # Ignora arquivos no Git
+├── package.json # Dependências e scripts
+├── vite.config.js # Configuração do Vite
+└── README.md # Documentação do projeto
