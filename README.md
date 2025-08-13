@@ -1,6 +1,4 @@
-# React + Vite
-
-<img width="36" height="32" alt="image" src="https://github.com/user-attachments/assets/bb71e486-b1e4-4d74-9f0c-da38df3b913e" />
+# React + Vite  <img width="36" height="32" alt="image" src="https://github.com/user-attachments/assets/bb71e486-b1e4-4d74-9f0c-da38df3b913e" />
 
 
 # 🌤️ React Previsão do Tempo
