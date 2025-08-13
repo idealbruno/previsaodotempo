@@ -1,0 +1,33 @@
+.container {
+    max-width: 1000px;
+    padding: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size:4rem;
+    color: azure
+}
+input {
+    padding: 11px;
+    border-radius: 20px 0px 0 20px;
+    border: none;
+    width: 60%;
+    max-width: 300px;
+    outline: none;
+    margin-top: 40px;
+}
+
+button {
+    background-color:  #f1b308;;
+    border: 0;
+    padding: 10px;
+    border-radius: 0 20px 20px 0;
+    cursor: pointer;
+    color: azure;
+    font-size: bold;
+}
+button:hover {
+    background-color: #ff9800;
+}
