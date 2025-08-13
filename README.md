@@ -19,11 +19,20 @@ Aplicação web desenvolvida em **React + Vite** para exibir previsões meteorol
 
 
 ├── src/ # Código-fonte do projeto
+
 │ ├── components/ # Componentes reutilizáveis
+
 │ ├── pages/ # Páginas da aplicação
+
 │ ├── services/ # Configuração de APIs
+
 │ └── main.jsx # Arquivo inicial do React
+
 ├── .gitignore # Ignora arquivos no Git
+
 ├── package.json # Dependências e scripts
+
 ├── vite.config.js # Configuração do Vite
+
 └── README.md # Documentação do projeto
+
